@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+catboost
+xgboost
+flask
+docker
+apache-airflow
+dill
+jupyter
+ipykernel
+boto3
+requests
+-e .
